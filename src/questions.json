@@ -1,0 +1,136 @@
+[
+    {
+        "question": "In which 1955 film does Frank Sinatra play Nathan Detroit?",
+        "optionA": "Anchors Aweigh",
+        "optionB": "From Here to Eternity",
+        "optionC": "High Society",
+        "optionD": "Guys and Dolls",
+        "answer": "Guys and Dolls"
+    },
+
+    {
+        "question": "Who directed the 1973 film &quot;American Graffiti&quot;?",
+        "optionA": "George Lucas",
+        "optionB": "Ron Howard",
+        "optionC": "Francis Ford Coppola",
+        "optionD": "Steven Spielberg",
+        "answer": "George Lucas"
+    },
+
+    {
+        "question":"Who played Batman in the 1997 film &quot;Batman and Robin&quot;?",
+        "optionA": "Michael Keaton",
+        "optionB": "George Clooney",
+        "optionC": "Val Kilmer",
+        "optionD": "Christian Bale",
+        "answer": "George Clooney"
+    },
+
+    {
+        "question": "This movie contains the quote, &quot;What we&#039;ve got here is a failure to communicate.&quot;",
+        "optionA": "In the Heat of the Night",
+        "optionB": "The Graduate",
+        "optionC": "Cool Hand Luke",
+        "optionD": "Bonnie and Clyde",
+        "answer": "Cool Hand Luke"
+    },
+
+    {
+        "question": "What is the name of the first &quot;Star Wars&quot; film by release order?",
+        "optionA": "A New Hope",
+        "optionB": "Revenge of the Sith",
+        "optionC": "The Force Awakens",
+        "optionD": "The Phantom Menace",
+        "answer": "A New Hope"
+    },
+
+    {
+        "question": "In the 1971 film &quot;Willy Wonka &amp; the Chocolate Factory&quot;, who played Willy Wonka?",
+        "optionA": "Johnny Depp",
+        "optionB": "Gene Wilder",
+        "optionC": "Peter Ostrum",
+        "optionD": "Shia LeBouf",
+        "answer": "Gene Wilder"
+    },
+
+    {
+        "question": "What is the correct phrase for the Latin saying &quot;Romanes Eunt Domus&quot; in Monty Python&#039;s Life of Brian?",
+        "optionA": "Romani Ite Domum",
+        "optionB": "Tomate Ite Domum",
+        "optionC": "Roxani Ite Domum",
+        "optionD": "Romans Go Home",
+        "answer": "Romani Ite Domum"
+    },
+
+    {
+        "question": "Which animated film did Steven Lisberger direct in 1980 before going on to direct Tron?",
+        "optionA": "Animalympics",
+        "optionB": "The Fox and the Hound",
+        "optionC": "The Black Cauldron",
+        "optionD": "The Great Mouse Detecive",
+        "answer": "Animalympics"
+    },
+
+    {
+        "question": "What was the name of the protagonist in the movie Commando (1985)?",
+        "optionA": "Harry Tasker",
+        "optionB": "Douglas Quaid",
+        "optionC": "John Matrix",
+        "optionD": "Ben Richards",
+        "answer": "John Matrix"
+    },
+
+    {
+        "question": "In the &quot;Jurassic Park&quot; universe, what is the name of the island that contains InGen&#039;s Site B?",
+        "optionA": "Isla Muerta",
+        "optionB": "Isla Pena",
+        "optionC": "Isla Nublar",
+        "optionD": "Isla Sorna",
+        "answer": "Isla Sorna"
+    },
+
+    {
+        "question": "Which former Star Trek actor directed Three Men and a Baby (1987)?",
+        "optionA": "William Shatner",
+        "optionB": "Leonard Nimoy",
+        "optionC": "George Takei",
+        "optionD": "James Doohan",
+        "answer": "Leonard Nimoy"
+    },
+
+    {
+        "question":"What character in the Winnie the Pooh films was added by Disney and does not appear in the original books?",
+        "optionA": "Tigger",
+        "optionB": "Heffalumps",
+        "optionC": "Gopher",
+        "optionD": "Rabbit",
+        "answer": "Gopher"
+    },
+
+    {
+        "question": "In the Friday The 13th series, what is Jason&#039;s mother&#039;s first name?",
+        "optionA": "Pamela",
+        "optionB": "Mary",
+        "optionC": "Christine",
+        "optionD": "Angeline",
+        "answer": "Pamela"
+    },
+
+    {
+        "question": "Which stand-up comedian voiced the talking parrot &quot;Iago&quot; in Disney&#039;s 1992 adaptation of Aladdin?",
+        "optionA": "Gilbert Gottfried",
+        "optionB": "Robin Williams",
+        "optionC": "Pauly Shore",
+        "optionD": "Jonathan Freeman",
+        "answer": "Gilbert Gottfried"
+    },
+
+    {
+        "question": "Which of the following films was NOT directed by Quentin Tarantino?",
+        "optionA": "Reservoir Dogs",
+        "optionB": "Pulp Fiction",
+        "optionC": "From Dusk till Dawn",
+        "optionD": "Jackie Brown",
+        "answer": "From Dusk till Dawn"
+    }
+]

@@ -1,0 +1,13 @@
+.instruction{
+    font-size: 30px;
+}
+.instruction::before{
+    content: ('>');
+}
+
+.quiz-container{
+   background-color: whitesmoke;
+}
+.instruction-detail{
+    border-left: 1px solid blue;
+}
