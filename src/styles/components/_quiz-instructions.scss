@@ -11,3 +11,15 @@
 .instruction-detail{
     border-left: 1px solid blue;
 }
+.correct-icon{
+    font-size: 30px;
+    color:green;
+    background-color:white;
+    cursor: pointer;
+}
+.wrong-icon{
+    font-size: 30px;
+    color:red;
+    background-color:white;
+    cursor: pointer;
+}
